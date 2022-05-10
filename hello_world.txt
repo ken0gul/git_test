@@ -1,1 +1,2 @@
 Hello The Odin Project Community!
+Bonus test : to see how it looks without -m when committing something.
